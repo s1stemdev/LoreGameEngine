@@ -1,0 +1,5 @@
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Release/net8.0/win-x86/publish/LoreGame.exe
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Release/net8.0/win-x86/publish/LoreGame.dll
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Release/net8.0/win-x86/publish/LoreGame.deps.json
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Release/net8.0/win-x86/publish/LoreGame.runtimeconfig.json
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Release/net8.0/win-x86/publish/LoreGame.pdb

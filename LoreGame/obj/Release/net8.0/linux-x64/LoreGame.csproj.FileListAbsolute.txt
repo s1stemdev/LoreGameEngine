@@ -1,0 +1,14 @@
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Release/net8.0/linux-x64/LoreGame
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Release/net8.0/linux-x64/LoreGame.deps.json
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Release/net8.0/linux-x64/LoreGame.runtimeconfig.json
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Release/net8.0/linux-x64/LoreGame.dll
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Release/net8.0/linux-x64/LoreGame.pdb
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Release/net8.0/linux-x64/LoreGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Release/net8.0/linux-x64/LoreGame.AssemblyInfoInputs.cache
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Release/net8.0/linux-x64/LoreGame.AssemblyInfo.cs
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Release/net8.0/linux-x64/LoreGame.csproj.CoreCompileInputs.cache
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Release/net8.0/linux-x64/LoreGame.dll
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Release/net8.0/linux-x64/refint/LoreGame.dll
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Release/net8.0/linux-x64/LoreGame.pdb
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Release/net8.0/linux-x64/LoreGame.genruntimeconfig.cache
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Release/net8.0/linux-x64/ref/LoreGame.dll

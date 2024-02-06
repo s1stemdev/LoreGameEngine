@@ -1,0 +1,14 @@
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Debug/net8.0/LoreGame
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Debug/net8.0/LoreGame.deps.json
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Debug/net8.0/LoreGame.runtimeconfig.json
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Debug/net8.0/LoreGame.dll
+/home/systemdev/RiderProjects/LoreGame/LoreGame/bin/Debug/net8.0/LoreGame.pdb
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Debug/net8.0/LoreGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Debug/net8.0/LoreGame.AssemblyInfoInputs.cache
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Debug/net8.0/LoreGame.AssemblyInfo.cs
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Debug/net8.0/LoreGame.csproj.CoreCompileInputs.cache
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Debug/net8.0/LoreGame.dll
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Debug/net8.0/refint/LoreGame.dll
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Debug/net8.0/LoreGame.pdb
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Debug/net8.0/LoreGame.genruntimeconfig.cache
+/home/systemdev/RiderProjects/LoreGame/LoreGame/obj/Debug/net8.0/ref/LoreGame.dll

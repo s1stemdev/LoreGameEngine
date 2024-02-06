@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1qAsguCGVEBkH6cq2Tb5LFWE21o5w3BuK51l2R29OZyLkxw+W5XbLn8rqtBJDI0btMVKklHvdIpxYY6NAqrykA==",
+  "success": true,
+  "projectFilePath": "/home/systemdev/RiderProjects/LoreGame/LoreGame/LoreGame.csproj",
+  "expectedPackageFiles": [
+    "/home/systemdev/.nuget/packages/microsoft.netcore.app.host.win-x86/8.0.1/microsoft.netcore.app.host.win-x86.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
